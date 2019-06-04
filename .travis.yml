@@ -20,4 +20,3 @@ after_success:
   - docker push jhesuandhi/multi-nginx
   - docker push jhesuandhi/multi-server
   - docker push jhesuandhi/multi-worker
-
